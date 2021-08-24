@@ -1,9 +1,9 @@
 module.exports = {
-  reactStrictMode: true,
+  
 
   images:{
     
-    domains:['links.papareact.com', 'images.tmdb.org'],
+    domains:["links.papareact.com", "https://image.tmdb.org"],
 
 
 
